@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internship.WebAPI", "Internship.WebAPI\Internship.WebAPI.csproj", "{C494CABC-2A1F-4746-A6D1-4F04865480C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internship.Utils", "Internship.Utils\Internship.Utils.csproj", "{FCF24B4F-6667-4722-85AF-666DCAA10A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C494CABC-2A1F-4746-A6D1-4F04865480C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C494CABC-2A1F-4746-A6D1-4F04865480C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C494CABC-2A1F-4746-A6D1-4F04865480C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C494CABC-2A1F-4746-A6D1-4F04865480C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF24B4F-6667-4722-85AF-666DCAA10A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF24B4F-6667-4722-85AF-666DCAA10A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF24B4F-6667-4722-85AF-666DCAA10A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF24B4F-6667-4722-85AF-666DCAA10A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A2E5A2-79B1-42A4-AF07-3F21F8ABC414}
+	EndGlobalSection
+EndGlobal
