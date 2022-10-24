@@ -101,9 +101,6 @@ namespace Internship.WebAPI.Controllers
                         foreach (DataRow dr in dt.Rows)
                         {
                             _cards.Add(new SmartCard { cardNo = dr["card_no"].ToString() });
-                            //SmartCard crd = new SmartCard();
-                            //crd.cardNo = dr["card_no"].ToString();
-                            //_cards(crd);
                         }
                         response.isSuccess = true;
                         response.cards = _cards;

@@ -12,5 +12,7 @@ namespace Internship.WebAPI.Models
 	{
 		public virtual string? cardNo { get; set; }
 	}
+
+
 }
 
